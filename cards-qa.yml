@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Dhatribank cards related qa APIs"
+  contactDetails:
+    name: "smrithi"
+    email: "smrithi@gmail.com"
+  onCallSupport:
+    - 7289765547
+    - 8765456784

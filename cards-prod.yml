@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Dhatribank cards related production APIs"
+  contactDetails:
+    name: "Lilly"
+    email: "lilly@gmail.com"
+  onCallSupport:
+    - 7289765546
+    - 8765453784
