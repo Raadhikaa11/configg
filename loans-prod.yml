@@ -2,10 +2,11 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Dhatribank loans related production APIs"
+  message: "Welcome to Dhatribank loans related prod APIs"
   contactDetails:
     name: "Lilly"
     email: "lilly@gmail.com"
   onCallSupport:
     - 7289765546
+
     - 8765453784
