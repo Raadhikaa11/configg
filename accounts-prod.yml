@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to Dhatribank accounts related production APIs"
   contactDetails:
     name: "Lilly"
-    email: "lilly@gmail.com"
+    email: "{cipher}2447c01ed36b2ec1868a994468d033cc7e8070bee9ad688e317df2a0fa0729b0"
   onCallSupport:
     - 7289765546
+
     - 8765453784
