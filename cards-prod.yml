@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Dhatribank cards related prod APIs"
+  message: "Welcome to Dhatribank cards related production APIs"
   contactDetails:
     name: "Lilly"
     email: "lilly@gmail.com"
@@ -10,3 +10,4 @@ cards:
     - 7289765546
 
     - 8765453784
+
