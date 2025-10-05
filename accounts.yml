@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Dhatribank accounts related local (default) APIs"
+  message: "Welcome to Dhatribank accounts related local (defaultt) APIs"
   contactDetails:
     name: "Radhika"
     email: "radhikaabbannagari@gmail.com"
